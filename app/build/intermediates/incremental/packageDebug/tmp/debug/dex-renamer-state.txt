@@ -1,4 +1,0 @@
-#Wed Feb 01 12:35:11 CST 2023
-base.0=D\:\\AlipaySDK-standard-15.8.11.8\\Android_Demo\\alipay_demo\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
